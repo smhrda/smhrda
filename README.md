@@ -4,7 +4,7 @@
   
   안녕하세요, 신입 개발자 이하진입니다.<br>
   JavaScript를 기반으로 하는 웹 서비스 개발 전반에 관심을 두고 공부하고 있습니다.<br>
-  My Portfolio : <a href="https://smhrda.notion.site/bed51a0a41a446d38f46e4dcd8afc51c"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
+  My Portfolio : <a href=""><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
   
   <br>
   <h2>📝 Used Skill List</h2>
